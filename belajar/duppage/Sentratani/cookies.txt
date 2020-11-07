@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.onesignal.com	TRUE	/	FALSE	1999999999	__cfduid	dc6943983f3f3d6a3acd2a730e9dbc17a1604739475
+cdn.onesignal.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
