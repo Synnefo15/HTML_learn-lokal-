@@ -1,8 +1,8 @@
-* {
-    margin: 0px;
+/* * {
+    margin: 20px;
     padding: 0px;
     box-sizing: border-box;
-}
+} */
 
 body {
     font-family: "Poppins", sans-serif;
@@ -19,6 +19,10 @@ body {
     border-radius: 15px 15px 0px 0px;
     position: relative;
     top: 20px;
+}
+
+.regform #gambar1 {
+    background-color: white;
 }
 
 .main {
