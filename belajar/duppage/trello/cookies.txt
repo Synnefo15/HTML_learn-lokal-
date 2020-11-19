@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+trello.com	TRUE	/	FALSE	1999999999	dsc	a7171822566ef8665db8c61721b4b117ed0e472706ba9004e582b7dd32d387d9
+trello.com	TRUE	/	FALSE	1999999999	lang	en
+trello.com	TRUE	/	FALSE	1999999999	mab	68827
+trello.com	TRUE	/	FALSE	1999999999	gdpr-cookie-consent	accepted
+trello.com	TRUE	/	FALSE	1999999999	ajs_anonymous_id	%2261147c09-66c8-e3b2-92cc-addbd0308c77%22
+trello.com	TRUE	/	FALSE	1999999999	bxp_gateway_request_id	c524f512-6489-611a-e5f7-d53d2f1d6888
+trello.com	TRUE	/	FALSE	1999999999	atlCohort	{"bucketAll":{"bucketedAtUTC":"2020-11-18T16:10:50.527Z","version":"2","index":31,"bucketId":0}}
+.blog.trello.com	TRUE	/	FALSE	1999999999	__cfduid	d97836e4e3356b63a386e4c679fa774741605715949
+.blog.trello.com	TRUE	/	FALSE	1999999999	__cfruid	b1d67135a24c63cce2c650796f66197c4c1b8961-1605715949
+blog.trello.com	TRUE	/	FALSE	1999999999	SameSite	None
+.wufoo.com	TRUE	/	FALSE	1999999999	ep201	FBKzxpAQAm3RXIB0NDuaGiNq5TQ=
+.wufoo.com	TRUE	/	FALSE	1999999999	ep202	IWMgYfffEZ5pZ1uP3qTnohKRh1M=
+secure.wufoo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
